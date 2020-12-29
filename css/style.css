@@ -1,0 +1,178 @@
+
+
+
+
+/* ---------------------------------------------------
+    SOCIAL MEDIA ICONS STARTS HERE
+----------------------------------------------------- */
+
+.icons .fa {
+    padding: 4px 0px;
+    font-size: 19px;
+    width: 27px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 5px;
+    margin-top: 9px;
+    border-radius: 2px;
+  }
+  
+  .fa:hover {
+    background-color: white;
+     color: black;  
+ }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  
+  .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  
+  .fa-skype {
+    background: #00aff0;
+    color: white;
+  }
+  
+  .fa-android {
+    background: #a4c639;
+    color: white;
+  }
+  
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+  }
+  
+  .fa-vimeo {
+    background: #45bbff;
+    color: white;
+  }
+  
+  .fa-github {
+    background: black;
+    color: white;
+  }
+  
+  .fa-vine {
+    background: #00b489;
+    color: white;
+  }
+  
+  .fa-foursquare {
+    background: #45bbff;
+    color: white;
+  }
+  
+  .fa-stumbleupon {
+    background: #eb4924;
+    color: white;
+  }
+  
+  .fa-github {
+    background: #f40083;
+    color: white;
+  }
+  
+  .fa-github {
+    background: #430297;
+    color: white;
+  }
+  
+  .fa-soundcloud {
+    background: #ff5500;
+    color: white;
+  }
+  
+  .fa-reddit {
+    background: #ff5700;
+    color: white;
+  }
+  
+  .fa-rss {
+    background: #ff6600;
+    color: white;
+  }
+  
+  /* ---------------------  SOCIAL MEDIA ICONS ENDS HERE -------------------------------------- */
+
+
+/* footer section starts here */
+
+.footer{
+    color: white;
+}
+
+#blog-footer-ul {
+   list-style: none;
+   padding: 0px;
+}
+
+
+#blog-footer-ul li a{
+    color: white;
+    font-weight: 600;
+    
+
+ }
+
+#top-footer{
+    background-color: #485460;
+  
+}
+
+
+#bottom-footer{
+    background-color: #1e272e;
+}
+.footer-logo{
+    margin-top: 15px;
+}
+.footer-logo a{
+    color: white;
+    padding: 0px 8px;
+}
+.term-condition{
+    margin-top: 15px;
+}
+.term-condition a{
+    color: white;
+    margin-right: 3px;
+    padding: 10px 6px;
+}
+
+/* footer section ends here */
