@@ -1,5 +1,5 @@
 # phpDiscussForum 
-How to use on loacal server.
+# How to use on loacal server.
 First install xampp and copy the project file paste it into htdocs c/xampp/htdocs/projct_filename. 
 Now open the xampp start apache and mysql server.
 Open the admin pannel of mysql and create a database name iulforum and import the sql file present in the project file.
