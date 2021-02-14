@@ -16,7 +16,7 @@ session_start();
         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <script src="https://cdn.tiny.cloud/1/5vh0rthzdcfm6o5wlr5jny319egdyydsv7p3ax96i5qm84ul/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
     <script src="js/typed.js"></script>
     <script src="js/typedjs.js"></script>
     <title>IUL DISCUSS FORUM</title>
